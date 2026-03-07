@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search/
+Disallow: /tags/
+Disallow: /categories/
+Allow: /
+
+Sitemap: https://lekston.net/sitemap.xml
